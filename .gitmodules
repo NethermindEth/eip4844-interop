@@ -14,3 +14,7 @@
 	path = erigon/erigon
 	url = https://github.com/roberto-bayardo/erigon
 	branch = eip-4844
+[submodule "nethermind/nethermind"]
+	path = nethermind/nethermind
+	url = https://github.com/NethermindEth/nethermind
+	branch = feature/eip-4844
